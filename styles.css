@@ -1,0 +1,43 @@
+
+* {
+    background-color: red;
+
+}
+
+
+.header {
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 32px;
+    color: red;
+    background-color: black;
+}
+
+.small-header {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    background-color: black;
+    color: red;
+
+}
+
+.links {
+    font-size: 20px;
+}
+
+.ingredients {
+    background-color: black;
+    color: white;
+    text-decoration: overline;
+}
+
+.steps {
+    background-color: black;
+    color: white;
+ 
+}
+
+img {
+    height: auto; 
+    width: 500
+}
